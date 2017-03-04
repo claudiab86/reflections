@@ -1,8 +1,0 @@
-What happens when you initialize a repository? Why do you need to do it?
-
-You tel git that there is where it will have to start recording the commits that you will create. Whitout git init that will only be a normal directory.
-
-
-How is the staging area different from the working directory and the repository? What value do you think it offers?
-
-Ithink that offers the perfect safe place for your files that you chose to change but are not yet in the finale state to be commited in the repository.
